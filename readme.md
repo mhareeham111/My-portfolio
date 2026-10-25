@@ -1,11 +1,35 @@
-# Maryam's Frontend Developer Portfolio
+# Maryam Ibrahim | Frontend Developer
 
-Responsive static portfolio made with HTML, CSS and JavaScript.
+Hi! I'm **Maryam Ibrahim**, a Frontend Developer based in Lagos, Nigeria. I enjoy building responsive, user-friendly web experiences and turning design concepts into functional websites.
 
-## Preview
-Open `index.html` in your browser.
+## 👩‍💻 About Me
 
-## Publish it online
-Upload this folder to a static hosting service such as GitHub Pages or Netlify. Keep `index.html`, `style.css`, `script.js`, and the `assets` folder together.
+- 🌱 Frontend developer with experience building responsive web interfaces.
+- 💻 Interested in creating accessible, maintainable, and user-friendly websites.
+- 🤝 Experienced in collaborating on team projects and integrating APIs.
+- 🚀 Always learning and improving my frontend development skills.
 
-The project cards link to the GitHub repositories supplied by Maryam. Replace any project link if you want to use a different live demo.
+## 🛠️ Skills & Technologies
+
+- **Languages:** HTML, CSS, JavaScript, TypeScript
+- **Frameworks & Libraries:** React, Next.js, Tailwind CSS
+- **Tools:** Git, GitHub, VS Code, Postman
+- **Other Skills:** Responsive Web Design, API Integration, Reusable Components, Debugging
+
+## 🌐 Portfolio
+
+Explore my portfolio to learn more about me and see my work:
+
+**[View My Live Portfolio](https://ornate-creponne-afa451.netlify.app/)**
+
+## 📫 Contact Me
+
+- **GitHub:** [@mhareeham111](https://github.com/mhareeham111)
+- **Email:** mariam.ibrahim0526@gmail.com
+- **Location:** Lagos, Nigeria
+
+I'm open to frontend development opportunities, collaboration, and projects where I can continue growing as a developer.
+
+---
+
+Thank you for visiting my portfolio repository!
